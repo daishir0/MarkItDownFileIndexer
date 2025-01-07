@@ -1,0 +1,4 @@
+colorama>=0.4.6
+python-magic>=0.4.27
+tqdm>=4.65.0
+markitdown>=1.0.0
